@@ -1,0 +1,13 @@
+Binaries/
+Saved/
+Intermediate/
+DerivedDataCache/
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+*.uasset
+*.umap
+*.uexp
+*.ubulk
+*.upk
+*.pak
+.vs/

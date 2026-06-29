@@ -3,7 +3,7 @@
 > Bachelor's thesis project | Unreal Engine 5.7 | C++ + Blueprint
 
 ## 🎮 Demo
-*Coming soon — gameplay video in progress*
+> ⚠️ Work in Progress — AI behavior system demo (thesis project)
 
 ## Overview
 Post-apocalyptic tower defence survival game. The player takes the role 

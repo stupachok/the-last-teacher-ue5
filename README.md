@@ -23,9 +23,3 @@ monster waves, and must build a rocket to escape.
 - C++ + Blueprint Visual Scripting
 - Gaea (terrain generation)
 - Visual Studio 2022
-
-## Architecture
-![System Diagram](docs/architecture.svg)
-
-## Screenshots
-*Coming soon*
